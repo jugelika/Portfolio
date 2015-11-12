@@ -1,5 +1,4 @@
 <?php
-require_once("Config.php");
 class Database {
 	protected static $config = array(
 		'driver' => 'mysql'
@@ -282,6 +281,3 @@ class Database {
 	}
 }
 $db = new Database( DATABASE_DRIVER, DATABASE_HOST, DATABASE_DB, DATABASE_USER, DATABASE_PASSWORD );
-	ini_set('display_startup_errors',1);
-ini_set('display_errors',1);
-error_reporting(-1);
