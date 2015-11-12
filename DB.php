@@ -1,4 +1,9 @@
 <?php
+DEFINE("DATABASE_DRIVER", "driver");
+DEFINE("DATABASE_HOST",  "host");
+DEFINE("DATABASE_DB",    "db name");
+DEFINE("DATABASE_USER",  "user name");
+DEFINE("DATABASE_PASSWORD", "password");
 class Database {
 	protected static $config = array(
 		'driver' => 'mysql'
