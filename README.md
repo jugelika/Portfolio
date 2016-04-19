@@ -11,12 +11,6 @@ WEB DEVELOPMENT:
 </br>
 3.MSSQL
 </br>
-4.SQLLITE
-</br>
-5.node.js
-</br>
-6.mongoDB
-</br>
 7.REST
 </br>
 8.SOAP
@@ -39,40 +33,39 @@ WEB DEVELOPMENT:
   </br>
   -angular.js
 </br>
-  -backbone.js
-  </br>
-  -ember.js
-  </br>
-  -react.js
-  </br>
-  -moustache.js
-  </br>
   -three.js
   </br>
 MOBILE DEVELOPMENT:
 </br>
 1.PhoneGap(with javascript libraries and asynchronious requests if backend needed)
 </br>
-2.JAVA android Development
+2.Ionic(AngularJS , TypeScript)
 </br>
-DESKTOP APPLICATIONS DEVELOPMENT:
-</br>
-1.JAVA with SWING;
+3.JAVA android Development
 </br>
 Experience : almost 5 years;
 </br>
-salary : min 2,500 GEL
+salary : min 3,000 GEL
 </br>
 for further information(if you are interested in my portfolio, working experience etc.) contact me.(Only contact me if you are able to pay provided salary )
 </br>
-phone : +559 599 63 23 73
+phone : +559 551 36 01 35
 </br>
 
-myadmin(myauto,mymarket,myhome,myparts,mysports,myjobs ADMIN Panel)
+<h2>Experience</h2>
+2 years as junior developer at GTN Technologics Georgia
 </br>
-part of a team which created new mymarket.ge, mysports.ge
+2 years as back-end developer at GTN Technologics Georgia
 </br>
-myads.ge
+1 year as back-end developer at BEACON GEORGIA
+</br>
+1.5 years as back-end developer ar my.ge(myauto,mymarket,myhome,myparts,mysports,myjobs)
+</br>
+</br>
+<h2>Projects</h2>
+myadmin(myauto,mymarket,myhome,myparts,mysports,myjobs Administration Page)
+</br>
+Involved in all my.ge projects : myauto.ge,mymarket.ge,myhome.ge,myparts.ge,myads.ge,mysports.ge,myjobs.ge
 </br>
 classica.com.ge
 </br>
@@ -88,6 +81,8 @@ MLM system for Opium LTD ukraine
 </br>
 Championship management system for georgian weightlifting federation
 </br>
+
+<h2>OLDER PROJECTS</h2>
 tulix.com
 </br>
 geowf.ge
