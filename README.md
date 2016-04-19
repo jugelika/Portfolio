@@ -1,7 +1,7 @@
 # Portfolio
-Fluent knowledge of following fields:
+<h2>Fluent knowledge of following fields</h2>
 </br>
-WEB DEVELOPMENT:
+<h3>WEB DEVELOPMENT</h3>
 </br>
     BackEnd
     </br>
@@ -35,7 +35,7 @@ WEB DEVELOPMENT:
 </br>
   -three.js
   </br>
-MOBILE DEVELOPMENT:
+<h3>MOBILE DEVELOPMENT</h3>
 </br>
 1.PhoneGap(with javascript libraries and asynchronious requests if backend needed)
 </br>
@@ -43,7 +43,8 @@ MOBILE DEVELOPMENT:
 </br>
 3.JAVA android Development
 </br>
-Experience : almost 5 years;
+
+<h3>Info</h3>
 </br>
 salary : min 3,000 GEL
 </br>
